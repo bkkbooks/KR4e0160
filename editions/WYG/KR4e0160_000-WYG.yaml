@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0160/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0160_WYG_000-1a, image: WYG1266/WYG1266-0465a.png}
+body:
+  text: 栢齋集别集類五明提要臣等謹案栢齋集十一巻明何瑭撰瑭字粹夫號栢齋武陟人𢎞治壬戌進士官至南京右都御史諡文定瑭篤行勵志其論學一以格致為宗集中送湛若水序謂甘泉以存心為主予以格物致知為先非存心固無以為格致之本物格知至則心之體用益備其生平得力在此故當時東南學者多宗王守仁良知之説而瑭獨以躬行為主不以道學自名復留心世務如均徭均糧論兵諸篇皆能深中時弊雖其文體朴質不斤斤於格律法度之間而剴切詳明不支不蔓猶存𢎞正以前規範與巵言勦説者流相去逺矣集凡文十巻詩一巻為嘉靖已酉鄭王所刻又有所著陰陽樂律儒學管見則趙王摹印以傳目為栢齋三書今别行於世云乾隆四十二年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:96983df0d26b74456b58c3684e3465b5d70042a05f5940379c157bb9b4b05dce
+metadata:
+  title: 柏齋集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:22:49.293879'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0160/KR4e0160_000.txt
+hash: sha256:14303b0236237869fe274a4440c8a5d7e73534a127744bbe899119957bb77e7a
